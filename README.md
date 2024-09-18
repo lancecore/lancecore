@@ -5,6 +5,8 @@
 
 I build with PHP, React, Next.js, WordPress, HTML, CSS, Sass, Tailwind CSS, and much more.
 
+Projects beginning with 'wddep' were created for use by my students in my [Web Design and Development Employment Program](https://news.gov.bc.ca/releases/2020SDPR0052-002110).
+
 You can see more of my work on [my personal portfolio](https://https://lanceboer.com/) and [Cascadia South](https://cascadiasouth.com/).
 
 Looking for some weird wallpapers for your phone? Check out [Lancecore](https://lancecore.com/)!
